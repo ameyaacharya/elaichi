@@ -1,21 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Spice up your life!
+image: /img/spices.jpg
+subheading: Cooking Indian food at home is as easy as 1, 2, 3.
+heading: Cooking Indian food at home is as easy as 1, 2, 3.
 mainpitch:
-  title: Why Kaldi
+  title: Why Elaichi?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    elaichi is a 21st-century spice store. We're passionate about introducing home cooks to the joy of Indian cooking, and showing you that it's really not that hard!
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  More text here.
 intro:
   blurbs:
     - image: /img/coffee.png
