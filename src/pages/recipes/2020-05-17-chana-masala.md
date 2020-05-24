@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Chana Masala
+date: 2020-05-17T15:04:10.000Z
 servings: 4
 featuredpost: false
 featuredimage: /img/channa.jpg
@@ -9,7 +10,7 @@ tags:
   - chickpeas
   - main dish
 ---
-![](/img/channa.jpg)
+![recipe-picture](/img/channa.jpg#thumbnail)
 If you’ve been to an Indian restaurant before, chances are you’ve heard of Channa Masala, a hearty dish made with chickpeas and a tomato base. It’s very easy to make and reheats beautifully for leftovers! Serve with basmati rice or roti/naan (the naan from the frozen section of Trader Joe’s is great!). If you like, you can serve with a squeeze of lemon on top at the end.
 
 # Ingredients

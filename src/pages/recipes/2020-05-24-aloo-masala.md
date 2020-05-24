@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Aloo Masala
+date: 2020-05-20T15:04:10.000Z
 servings: 4
 featuredpost: false
 featuredimage: /img/aloo-masala.jpg
@@ -10,7 +11,8 @@ tags:
   - chickpeas
   - main dish
 ---
-![](/img/chemex.jpg)
+![recipe-picture](/img/aloo-masala.jpg)
+
 If you have potatoes, onions, and your spice kits, you’re in for an easy and delicious treat. This aloo masala is similar to what is served with dosas, or can be made into a delicious sandwich or served with rice or naan. A truly versatile dish!
 
 # Ingredients

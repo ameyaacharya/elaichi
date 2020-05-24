@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Chitranna
+date: 2020-05-17T15:04:10.000Z
 servings: 4
 featuredpost: false
 featuredimage: /img/chitranna.jpg
@@ -9,7 +10,7 @@ tags:
   - rice
   - main dish
 ---
-![](/img/chitranna.jpg)
+![recipe-picture](/img/chitranna.jpg)
 This traditional South Indian dish is often eaten for breakfast, but can be enjoyed as a light lunch or dinner as well. You can think of it like a very light version of a fried race, the perfect way to use up leftover day-old rice! When finished, the rice is a bright yellow color and has a strong lemony tag. The best part are the crunchy cashews and peanuts! All you need is your spice kit, some rice, a lemon, and cilantro for garnish.
 
 
