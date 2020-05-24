@@ -5,11 +5,11 @@ image: /img/spices.jpg
 subheading: Cooking Indian food at home is as easy as 1, 2, 3.
 heading: Cooking Indian food at home is as easy as 1, 2, 3.
 mainpitch:
-  title: Why Elaichi?
+  title: what is elaichi?
   description: >
-    elaichi is a 21st-century spice store. We're passionate about introducing home cooks to the joy of Indian cooking, and showing you that it's really not that hard!
+    elaichi is a 21st-century spice store. We're passionate about introducing home cooks to the joy of Indian cooking, and showing you just how easy it is!
 description: >-
-  More text here.
+  We're a one-stop shop for all of your Indian food cooking needs. We sell full spice packets so you don't need to buy 20+ huge jars of spices.
 intro:
   blurbs:
     - image: /img/coffee.png
