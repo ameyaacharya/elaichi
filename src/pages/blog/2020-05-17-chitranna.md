@@ -2,21 +2,17 @@
 templateKey: blog-post
 title: Chitranna
 date: 2020-05-17T15:04:10.000Z
+servings: 4
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Lemon Rice
+featuredimage: /img/chitranna.jpg
+
 tags:
   - rice
   - main dish
 ---
-![](/img/chemex.jpg)
-#### Servings: 4
+![](/img/chitranna.jpg)
+This traditional South Indian dish is often eaten for breakfast, but can be enjoyed as a light lunch or dinner as well. You can think of it like a very light version of a fried race, the perfect way to use up leftover day-old rice! When finished, the rice is a bright yellow color and has a strong lemony tag. The best part are the crunchy cashews and peanuts! All you need is your spice kit, some rice, a lemon, and cilantro for garnish.
 
-This traditional South Indian dish is often eaten
-for breakfast, but can be enjoyed as a light lunch or dinner as well. You can think of it like a very light version of a fried rice, the perfect way to use up leftover day-old rice! When finished, the rice is a bright yellow color and has a strong lemony tang. The best part are the crunchy cashews
-and peanuts!
-
-All you need is your spice kit, some rice, a lemon, and cilantro for garnish.
 
 # Ingredients
 - 2 cups cooked rice (basmati or any other white rice. Brown rice won’t work here!)
