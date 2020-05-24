@@ -1,7 +1,6 @@
 ---
 templateKey: blog-post
 title: Chitranna
-date: 2020-05-17T15:04:10.000Z
 servings: 4
 featuredpost: false
 featuredimage: /img/chitranna.jpg

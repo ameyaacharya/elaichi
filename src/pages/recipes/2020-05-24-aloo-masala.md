@@ -1,7 +1,6 @@
 ---
 templateKey: blog-post
 title: Aloo Masala
-date: 2020-05-20T15:04:10.000Z
 servings: 4
 featuredpost: false
 featuredimage: /img/aloo-masala.jpg
